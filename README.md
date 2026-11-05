@@ -27,6 +27,7 @@ My work brings together classroom practice, educational product design, interact
 
 ### Reflection and family tools
 
+- **[Empathetic Words](https://github.com/Empathyglobal/empathetic-words)**: A communication-skills practice game with 33 fictional stories. Build responses through observation, feeling, need and request, with optional on-device narration. The standalone source preview needs no account or backend; progress resets on reload. Automated tests and build pass; real-browser and audio verification remain pending.
 - **[The Empathy Measure](https://github.com/Empathyglobal/empathy-measure)**: An experimental conversation and reflection app exploring seven emotional skills. The public preview uses fictional reports and has live inference disabled. It is not a validated psychological test.
 - **[BridgeConnect](https://github.com/Empathyglobal/bridgeconnect)**: A family conversation and supervised-learning workspace with parent review and activity summaries. This community alpha requires its own backend configuration and review before use with real family information.
 
