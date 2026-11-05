@@ -1,6 +1,6 @@
 # Hi, I'm Eric Gonzalez-Payne
 
-I'm an educator, school founder and AI-assisted software builder with an Ed.M. from Harvard. I care about making the world a better place through education and practical tools that help people and organizations.
+I'm an educator, school founder with an Ed.M. from Harvard. I care about making the world a better place through education and practical tools that help people and organizations.
 
 I build and test software for organizations, then choose selected projects to release publicly so others can use them, adapt them and build businesses of their own. I enjoy seeing useful ideas grow beyond their original purpose.
 
