@@ -17,11 +17,12 @@ My work brings together classroom practice, educational product design, interact
 - **[Create](https://github.com/Empathyglobal/create)**: A teacher-supervised creative workspace for stories, questions and interactive projects. The public source preview includes Story, Chat and Code workflows; live generation and account connections are disabled.
 - **[Alpha Project Finder](https://github.com/Empathyglobal/alpha-project-finder)**: A prototype for matching students with portfolio projects and planning milestones. The source includes rule-based matching, shortlists and mentor workflows; the default build is an offline setup screen, not a live student service.
 
+- **[School Library Catalogue](https://github.com/Empathyglobal/school-library-catalogue)**: A reusable search and filtering interface with 1,026 factual book records from a historical school catalogue snapshot. Runs on a static server without an account or application backend. Book covers and borrower records are excluded; real-browser verification remains pending.
+
 ### Games and simulations
 
 - **[Unlikely Empires](https://github.com/Empathyglobal/unlikely-empires)**: A browser strategy game about building cities, managing unrest and guiding ten peoples through six eras. Includes solo play, local saves and multiplayer support. [Play on the website](https://www.unlikelyempires.com/).
 - **[Raising Tomorrow](https://github.com/Empathyglobal/raising-tomorrow-community-preview)**: A parenting life simulation about choices, consequences, repair and learning. The community preview runs locally, with built-in scenarios and browser saves; online services are excluded.
-
 - **[GameTheory](https://github.com/Empathyglobal/gametheory-community-preview)**: Seven social-strategy simulations about cooperation, trust, negotiation and shared resources. Rule-driven computer characters create a social-game experience without live multiplayer, accounts or a backend. This community source preview has automated model checks; full browser testing remains pending.
 
 ### Reflection and family tools
