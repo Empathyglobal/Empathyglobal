@@ -22,6 +22,8 @@ My work brings together classroom practice, educational product design, interact
 - **[Unlikely Empires](https://github.com/Empathyglobal/unlikely-empires)**: A browser strategy game about building cities, managing unrest and guiding ten peoples through six eras. Includes solo play, local saves and multiplayer support. [Play on the website](https://www.unlikelyempires.com/).
 - **[Raising Tomorrow](https://github.com/Empathyglobal/raising-tomorrow-community-preview)**: A parenting life simulation about choices, consequences, repair and learning. The community preview runs locally, with built-in scenarios and browser saves; online services are excluded.
 
+- **[GameTheory](https://github.com/Empathyglobal/gametheory-community-preview)**: Seven social-strategy simulations about cooperation, trust, negotiation and shared resources. Rule-driven computer characters create a social-game experience without live multiplayer, accounts or a backend. This community source preview has automated model checks; full browser testing remains pending.
+
 ### Reflection and family tools
 
 - **[The Empathy Measure](https://github.com/Empathyglobal/empathy-measure)**: An experimental conversation and reflection app exploring seven emotional skills. The public preview uses fictional reports and has live inference disabled. It is not a validated psychological test.
